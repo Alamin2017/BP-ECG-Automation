@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="testCases.OnboardingTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2023-06-13T05:59:46" hostname="AMIN-AL01" time="66.279">
+  <properties/>
+  <testcase name="tc_001" classname="testCases.OnboardingTest" time="14.125"/>
+  <testcase name="tc_002" classname="testCases.OnboardingTest" time="29.864"/>
+  <testcase name="tc_003" classname="testCases.OnboardingTest" time="8.537"/>
+  <testcase name="tc_004" classname="testCases.OnboardingTest" time="13.67"/>
+  <system-out><![CDATA[Phone App Installation is done in Mobile
+Title is verified in phone app
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
